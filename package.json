@@ -2,6 +2,6 @@
   "name": "emscripten",
   "version": "1.13.0",
   "dependencies": {
-    "ws": "~1.1.2"
+    "ws": "~3.3.1"
   }
 }
